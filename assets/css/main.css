@@ -116,7 +116,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: inherit;
+		color: rgba(9, 147, 210, 0.79);
 		text-decoration: none;
 	}
 
