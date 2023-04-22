@@ -2716,7 +2716,7 @@ input, select, textarea {
 					-ms-transition: none;
 					transition: none;
 					border: 0;
-					color: #b2b2b2 !important;
+					color: #f0ecec !important;
 					display: block;
 					padding: 0.5em 0;
 					text-decoration: none;
@@ -3292,7 +3292,7 @@ input, select, textarea {
 	bottom: 0rem;
 	left: 60px;
 	z-index: 1;
-	background: #C5C5C5;
+	background: #f0ecec;
 }
 
 #timeline h3 {
