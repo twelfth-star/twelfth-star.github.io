@@ -101,4 +101,3 @@ Cheng Deng, Tianhang Zhang, **Zhongmou He**, Yi Xu, Qiyuan Chen, Yuanyuan Shi, L
 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
