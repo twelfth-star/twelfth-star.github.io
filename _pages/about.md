@@ -46,7 +46,7 @@ Cheng Deng, Tianhang Zhang, **Zhongmou He**, Yi Xu, Qiyuan Chen, Yuanyuan Shi, L
 
 - ![](https://img.shields.io/badge/Tech%20Report-8A2BE2) [GeoGalactica: A Scientific Large Language Model in Geoscience](https://arxiv.org/abs/2401.00434), Zhouhan Lin, Cheng Deng, Le Zhou, Tianhang Zhang, Yi Xu, Yutong Xu, **Zhongmou He**, Yuanyuan Shi, Beiya Dai, Yunchong Song, Boyi Zeng, Qiyuan Chen, Tao Shi, Tianyu Huang, Yiwei Xu, Shu Wang, Luoyi Fu, Weinan Zhang, Junxian He, Chao Ma, Yunqiang Zhu, Xinbing Wang, Chenghu Zhou
 
-# 📝 Research Experences
+# 📝 Research Experiences
 **Leveraging LLMs for Link Prediction on Text-Attributed Graphs**
 
 - **Advisor:** Prof. Danai Koutra
@@ -65,8 +65,8 @@ Cheng Deng, Tianhang Zhang, **Zhongmou He**, Yi Xu, Qiyuan Chen, Yuanyuan Shi, L
 # 📖 Educations
 **University of Michigan, Ann Arbor (UM)** 
 
-- **Major:** Data Science (CSE) (dual degree); **Minor: Math**
-- **GPA:** 4.0/4.0
+- **Major:** Data Science (CSE) (dual degree); **Minor:** Math
+- **GPA:** 4.0/4.0 (Dean's List of all semesters)
 - Sept. 2023 - May. 2025 (expected); Ann Arbor, MI
 - **Selected coursework:** Natural Language Processing (grad), Advanced AI (PhD-level), Machine Learning, Computer Vision, Stochastic Processes (grad), Computer Organization, Database Management Systems, Numerical Analysis
 
@@ -80,7 +80,6 @@ Cheng Deng, Tianhang Zhang, **Zhongmou He**, Yi Xu, Qiyuan Chen, Yuanyuan Shi, L
 
 
 # 🎖 Honors and Awards
-- **[Jan. 2024] Dean's List of University of Michigan, Ann Arbor**
 - **[Jan. 2023] 🥇Gold Award of The University Physics Competition** <br> four hundred teams take part in the competition every year. The most outstanding **approximately 2%** of the teams will be ranked as gold medal winners.
 - **[Dec. 2022] 💯Excellent Freshman Scholarship of JI, SJTU (recertification)** <br> Full scholarship of JI, SJTU (10,000 USD/year) for outstanding academic performance. Only **3 out of 250** students can be granted with this scholarship.
 - **[Nov. 2022] Undergraduate Excellent Scholarship of SJTU**
