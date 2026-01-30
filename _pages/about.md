@@ -25,8 +25,7 @@ My research interests include LLMs, post-training (SFT, RL), and coding agents.
 
 I am actively looking for work opportunities. Please feel free to check out my CV!
 
-[CV (short ver.)](https://drive.google.com/file/d/1e0x5442Lncpj734IZqLdVrZs9EQvtrm0/view?usp=drive_link) \| [CV (full ver.)](https://drive.google.com/file/d/1B308eWmx4EjlIEjYnw2lIM4ruXB_3WaS/view?usp=drive_link)
-
+[CV](resume/resume_ZhongmouHe_2026-01-29.pdf)
 
 
 <!-- # 🔥 News
@@ -46,15 +45,15 @@ Cheng Deng, Tianhang Zhang, **Zhongmou He**, Yi Xu, Qiyuan Chen, Yuanyuan Shi, L
 </div>
 </div> -->
 
-- ![](https://img.shields.io/badge/ICLR%202026-8A2BE2) [HardTests: Synthesizing High-Quality Test Cases for LLM Coding](https://arxiv.org/abs/2505.24098), ***Zhongmou He***, Yee Man Choi, Kexun Zhang, Jiabao Ji, Junting Zhou, Dejia Xu, Ivan Bercovich, Aidan Zhang, Lei Li
+- ![](https://img.shields.io/badge/ICLR%202026-4285F4) [HardTests: Synthesizing High-Quality Test Cases for LLM Coding](https://arxiv.org/abs/2505.24098), <b><u>Zhongmou He</u></b>, Yee Man Choi, Kexun Zhang, Jiabao Ji, Junting Zhou, Dejia Xu, Ivan Bercovich, Aidan Zhang, Lei Li
 
-- ![](https://img.shields.io/badge/CVPR%202025-8A2BE2) [Mosaic of Modalities: A Comprehensive Benchmark for Multimodal Graph Learning](https://arxiv.org/abs/2406.16321), Jing Zhu, Yuhang Zhou, Shengyi Qian, ***Zhongmou He***, Tong Zhao, Neil Shah, Danai Koutra
+- ![](https://img.shields.io/badge/CVPR%202025-4285F4) [Mosaic of Modalities: A Comprehensive Benchmark for Multimodal Graph Learning](https://arxiv.org/abs/2406.16321), Jing Zhu, Yuhang Zhou, Shengyi Qian, <b><u>Zhongmou He</u></b>, Tong Zhao, Neil Shah, Danai Koutra
 
-- ![](https://img.shields.io/badge/CIKM%202025-8A2BE2) [LinkGPT: Teaching Large Language Models To Predict Missing Links](https://arxiv.org/abs/2406.04640),***Zhongmou He***, Jing Zhu, Shengyi Qian, Joyce Chai, Danai Koutra
+- ![](https://img.shields.io/badge/CIKM%202025-4285F4) [LinkGPT: Teaching Large Language Models To Predict Missing Links](https://arxiv.org/abs/2406.04640), <b><u>Zhongmou He</u></b>, Jing Zhu, Shengyi Qian, Joyce Chai, Danai Koutra
 
-- ![](https://img.shields.io/badge/WSDM%202024-8A2BE2) [K2: A Foundation Language Model for Geoscience Knowledge Understanding and Utilization](https://arxiv.org/abs/2306.05064), Cheng Deng, Tianhang Zhang, ***Zhongmou He***, Yi Xu, Qiyuan Chen, Yuanyuan Shi, Luoyi Fu, Weinan Zhang, Xinbing Wang, Chenghu Zhou, Zhouhan Lin, Junxian He
+- ![](https://img.shields.io/badge/WSDM%202024-4285F4) [K2: A Foundation Language Model for Geoscience Knowledge Understanding and Utilization](https://arxiv.org/abs/2306.05064), Cheng Deng, Tianhang Zhang, <b><u>Zhongmou He</u></b>, Yi Xu, Qiyuan Chen, Yuanyuan Shi, Luoyi Fu, Weinan Zhang, Xinbing Wang, Chenghu Zhou, Zhouhan Lin, Junxian He
 
-- ![](https://img.shields.io/badge/Tech%20Report-8A2BE2) [GeoGalactica: A Scientific Large Language Model in Geoscience](https://arxiv.org/abs/2401.00434), Zhouhan Lin, Cheng Deng, Le Zhou, Tianhang Zhang, Yi Xu, Yutong Xu, ***Zhongmou He***, Yuanyuan Shi, Beiya Dai, Yunchong Song, Boyi Zeng, Qiyuan Chen, Tao Shi, Tianyu Huang, Yiwei Xu, Shu Wang, Luoyi Fu, Weinan Zhang, Junxian He, Chao Ma, Yunqiang Zhu, Xinbing Wang, Chenghu Zhou
+- ![](https://img.shields.io/badge/Tech%20Report-8A2BE2) [GeoGalactica: A Scientific Large Language Model in Geoscience](https://arxiv.org/abs/2401.00434), Zhouhan Lin, Cheng Deng, Le Zhou, Tianhang Zhang, Yi Xu, Yutong Xu, <b><u>Zhongmou He</u></b>, Yuanyuan Shi, Beiya Dai, Yunchong Song, Boyi Zeng, Qiyuan Chen, Tao Shi, Tianyu Huang, Yiwei Xu, Shu Wang, Luoyi Fu, Weinan Zhang, Junxian He, Chao Ma, Yunqiang Zhu, Xinbing Wang, Chenghu Zhou
 
 <!-- # 📝 Research Experiences
 **Leveraging LLMs for Link Prediction on Text-Attributed Graphs**
