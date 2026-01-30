@@ -23,9 +23,7 @@ I am currently a 1st-year master's student at [Carnegie Mellon University (CMU)]
 
 My research interests include LLMs, post-training (SFT, RL), and coding agents.
 
-I am actively looking for work opportunities. Please feel free to check out my CV!
-
-[CV](resume/resume_ZhongmouHe_2026-01-29.pdf)
+I am actively looking for work opportunities. Please feel free to check out my [resume](resume/resume_ZhongmouHe_2026-01-29.pdf)!
 
 
 <!-- # 🔥 News
